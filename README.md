@@ -15,4 +15,11 @@ Pipeline:
 4. Multimodal fusion
 5. Emotion classification
 
-Demo videos are available in the /demo folder.
+Dataset used: RAVDESS
+
+Download link:
+https://zenodo.org/record/1188976
+
+After downloading, place the dataset inside:
+
+data/RAVDESS/
