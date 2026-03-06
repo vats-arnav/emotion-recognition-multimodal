@@ -1,2 +1,18 @@
-# emotion-recognition-multimodal
-Multimodal emotion recognition system using audio and video features from the RAVDESS dataset, combining facial expression and speech signals for improved emotion classification.
+# Multimodal Emotion Recognition (Audio + Video)
+
+This project performs emotion detection using:
+
+- Facial expressions from video
+- Speech signals from audio
+
+Dataset used:
+RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)
+
+Pipeline:
+1. Dataset loading
+2. Video feature extraction
+3. Audio feature extraction
+4. Multimodal fusion
+5. Emotion classification
+
+Demo videos are available in the /demo folder.
